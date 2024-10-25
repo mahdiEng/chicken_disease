@@ -11,4 +11,5 @@ types-PyYAML
 scipy
 Flask
 Flask-cors
+ensure==1.0.2
 -e .
